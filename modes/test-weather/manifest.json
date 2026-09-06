@@ -2,7 +2,7 @@
   "id": "test-weather",
   "name": "Weather (test)",
   "author": "vaho",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Current conditions and the 7-day forecast, with an animated sky.",
   "description": "",
   "icon": "cloud.sun.fill",
@@ -12,7 +12,6 @@
     "location"
   ],
   "minVahoVersion": "2.0.0",
-  "sizeBytes": 4515,
-  "createdAt": "2026-09-06T20:28:07.482Z",
-  "updatedAt": "2026-09-06T20:28:07.482Z"
+  "sizeBytes": 4568,
+  "updatedAt": "2026-09-06T22:11:53.673Z"
 }
