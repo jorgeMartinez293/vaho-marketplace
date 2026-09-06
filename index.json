@@ -1,6 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T19:18:57.538Z",
-  "modes": [],
+  "updatedAt": "2026-09-06T19:51:11.080Z",
+  "modes": [
+    {
+      "id": "caveman-smoketest",
+      "name": "Smoke Test",
+      "summary": "marketplace pipeline check",
+      "author": "jorge",
+      "category": "other",
+      "icon": "puzzlepiece.extension.fill",
+      "kind": "web",
+      "version": "0.0.1",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/caveman-smoketest/bundle.zip",
+      "sizeBytes": 463,
+      "permissions": [],
+      "screenshots": [],
+      "createdAt": "2026-09-06T19:50:56.304Z"
+    }
+  ],
   "themes": []
 }
