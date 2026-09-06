@@ -1,0 +1,15 @@
+{
+  "id": "test-notes",
+  "name": "Notes (test)",
+  "author": "vaho",
+  "version": "1.0.0",
+  "summary": "A scratchpad that survives closing the panel.",
+  "description": "",
+  "icon": "note.text",
+  "category": "other",
+  "permissions": [],
+  "minVahoVersion": "2.0.0",
+  "sizeBytes": 1697,
+  "createdAt": "2026-09-06T20:28:01.832Z",
+  "updatedAt": "2026-09-06T20:28:01.832Z"
+}
