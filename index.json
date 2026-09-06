@@ -1,26 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T20:28:21.152Z",
+  "updatedAt": "2026-09-06T22:12:05.525Z",
   "modes": [
-    {
-      "id": "test-weather",
-      "name": "Weather (test)",
-      "summary": "Current conditions and the 7-day forecast, with an animated sky.",
-      "author": "vaho",
-      "category": "other",
-      "icon": "cloud.sun.fill",
-      "kind": "web",
-      "version": "1.0.0",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/test-weather/bundle.zip",
-      "sizeBytes": 4515,
-      "permissions": [
-        "network",
-        "location"
-      ],
-      "screenshots": [],
-      "createdAt": "2026-09-06T20:28:07.482Z",
-      "minVahoVersion": "2.0.0"
-    },
     {
       "id": "test-sysmon",
       "name": "System (test)",
@@ -63,12 +44,29 @@
       "category": "other",
       "icon": "function",
       "kind": "web",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/test-calculator/bundle.zip",
-      "sizeBytes": 3064,
+      "sizeBytes": 3252,
       "permissions": [],
       "screenshots": [],
-      "createdAt": "2026-09-06T20:27:59.063Z",
+      "minVahoVersion": "2.0.0"
+    },
+    {
+      "id": "test-weather",
+      "name": "Weather (test)",
+      "summary": "Current conditions and the 7-day forecast, with an animated sky.",
+      "author": "vaho",
+      "category": "other",
+      "icon": "cloud.sun.fill",
+      "kind": "web",
+      "version": "1.0.1",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/test-weather/bundle.zip",
+      "sizeBytes": 4568,
+      "permissions": [
+        "network",
+        "location"
+      ],
+      "screenshots": [],
       "minVahoVersion": "2.0.0"
     }
   ],
