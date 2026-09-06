@@ -2,14 +2,13 @@
   "id": "test-calculator",
   "name": "Calculator (test)",
   "author": "vaho",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A quick calculator inside the notch.",
   "description": "",
   "icon": "function",
   "category": "other",
   "permissions": [],
   "minVahoVersion": "2.0.0",
-  "sizeBytes": 3064,
-  "createdAt": "2026-09-06T20:27:59.063Z",
-  "updatedAt": "2026-09-06T20:27:59.063Z"
+  "sizeBytes": 3252,
+  "updatedAt": "2026-09-06T22:11:50.963Z"
 }
