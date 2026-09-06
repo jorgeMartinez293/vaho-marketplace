@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T22:35:39.877Z",
+  "updatedAt": "2026-09-06T22:54:49.952Z",
   "modes": [
     {
       "id": "test-sysmon",
@@ -59,9 +59,9 @@
       "category": "other",
       "icon": "cloud.sun.fill",
       "kind": "web",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/test-weather/bundle.zip",
-      "sizeBytes": 4568,
+      "sizeBytes": 5546,
       "permissions": [
         "network",
         "location"
