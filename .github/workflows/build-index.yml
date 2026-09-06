@@ -1,0 +1,29 @@
+name: Build catalog index
+
+on:
+  push:
+    branches: [main]
+    paths: ["themes/**", "modes/**", "builtin-modes.json", "scripts/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/build-index.mjs
+        env:
+          PAGES_BASE_URL: https://jorgeMartinez293.github.io/vaho-marketplace
+      - name: Commit index.json
+        run: |
+          git config user.name "vaho-bot"
+          git config user.email "bot@vaho.app"
+          git add index.json
+          git diff --cached --quiet || git commit -m "chore: rebuild index.json"
+          git push
