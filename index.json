@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T22:12:05.525Z",
+  "updatedAt": "2026-09-06T22:35:39.877Z",
   "modes": [
     {
       "id": "test-sysmon",
@@ -44,9 +44,9 @@
       "category": "other",
       "icon": "function",
       "kind": "web",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/test-calculator/bundle.zip",
-      "sizeBytes": 3252,
+      "sizeBytes": 3447,
       "permissions": [],
       "screenshots": [],
       "minVahoVersion": "2.0.0"
