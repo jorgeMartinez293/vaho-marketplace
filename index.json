@@ -1,8 +1,47 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T00:22:23.488Z",
+  "updatedAt": "2026-09-07T00:24:40.887Z",
   "modes": [],
   "themes": [
+    {
+      "id": "black-c167b9",
+      "name": "BLACK",
+      "author": "Jorge Martínez",
+      "sources": [
+        "dock",
+        "cursor",
+        "appSettings",
+        "sereno",
+        "menuBar",
+        "wallpaper",
+        "vidrio",
+        "bruma",
+        "appearance",
+        "screenSaver"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/black-c167b9/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/black-c167b9/bundle.vahotheme",
+      "sizeBytes": 550452,
+      "createdAt": "2026-09-07T00:24:24.507Z",
+      "bringsWidgets": true,
+      "requires": [
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        }
+      ]
+    },
     {
       "id": "blue-012e32",
       "name": "BLUE",
