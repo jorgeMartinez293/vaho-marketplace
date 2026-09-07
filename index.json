@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T00:09:28.915Z",
+  "updatedAt": "2026-09-07T00:09:28.993Z",
   "modes": [
     {
       "id": "com.vaho.github-glance",
@@ -26,31 +26,6 @@
         "ci",
         "pull requests",
         "dev"
-      ]
-    },
-    {
-      "id": "com.vaho.system-vitals",
-      "name": "System Vitals",
-      "summary": "CPU, memory, network and battery with graphs, peaks and running totals — for people who want more than a glance.",
-      "description": "A deeper system panel than the built-in monitor: rolling graphs with min/avg/peak per metric, session-cumulative network transfer, battery health/charge, adjustable poll rate and a pause toggle.",
-      "author": "vaho",
-      "category": "system",
-      "icon": "waveform.path.ecg",
-      "kind": "web",
-      "version": "1.0.0",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.system-vitals/bundle.zip",
-      "sizeBytes": 3938,
-      "permissions": [
-        "system",
-        "battery"
-      ],
-      "screenshots": [],
-      "createdAt": "2026-09-06T23:37:37Z",
-      "minVahoVersion": "2.0.0",
-      "tags": [
-        "system",
-        "monitor",
-        "advanced"
       ]
     }
   ],
