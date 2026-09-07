@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T00:02:15.180Z",
+  "updatedAt": "2026-09-07T00:09:28.742Z",
   "modes": [
     {
       "id": "com.vaho.ai-sessions",
@@ -78,30 +78,6 @@
         "system",
         "monitor",
         "advanced"
-      ]
-    },
-    {
-      "id": "com.vaho.obsidian-capture",
-      "name": "Obsidian Capture",
-      "summary": "Drop a quick note into your Obsidian vault without leaving the notch.",
-      "description": "Appends text to today's daily note (or any file you name) in an Obsidian vault, through the Local REST API community plugin. Requires that plugin installed and enabled in Obsidian — see the mode's README for the two-minute setup.",
-      "author": "vaho",
-      "category": "productivity",
-      "icon": "square.and.pencil",
-      "kind": "web",
-      "version": "1.0.0",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.obsidian-capture/bundle.zip",
-      "sizeBytes": 3612,
-      "permissions": [
-        "network"
-      ],
-      "screenshots": [],
-      "createdAt": "2026-09-06T23:32:34Z",
-      "minVahoVersion": "2.0.0",
-      "tags": [
-        "obsidian",
-        "notes",
-        "capture"
       ]
     },
     {
