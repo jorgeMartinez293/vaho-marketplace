@@ -1,8 +1,48 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T09:33:26.879Z",
+  "updatedAt": "2026-09-07T09:34:27.778Z",
   "modes": [],
   "themes": [
+    {
+      "id": "lightblue-db9738",
+      "name": "LIGHTBLUE",
+      "author": "Jorge Martínez",
+      "sources": [
+        "sereno",
+        "finder",
+        "bruma",
+        "screenSaver",
+        "appSettings",
+        "menuBar",
+        "vidrio",
+        "cursor",
+        "dock",
+        "wallpaper",
+        "appearance"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/lightblue-db9738/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/lightblue-db9738/bundle.vahotheme",
+      "sizeBytes": 1868560,
+      "createdAt": "2026-09-07T09:34:10.107Z",
+      "bringsWidgets": true,
+      "requires": [
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        },
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
     {
       "id": "blue-e9ed01",
       "name": "BLUE",
