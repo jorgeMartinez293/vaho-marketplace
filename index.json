@@ -1,33 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T00:09:28.993Z",
-  "modes": [
-    {
-      "id": "com.vaho.github-glance",
-      "name": "GitHub Glance",
-      "summary": "Open PRs and their CI status for a repo, one click from the notch.",
-      "description": "Lists open pull requests for a GitHub repo with combined check status, click to open in the browser. Works unauthenticated for public repos (rate-limited) or with a personal access token for private repos and a higher limit.",
-      "author": "vaho",
-      "category": "tools",
-      "icon": "arrow.triangle.pull",
-      "kind": "web",
-      "version": "1.0.0",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.github-glance/bundle.zip",
-      "sizeBytes": 3692,
-      "permissions": [
-        "network",
-        "openURL"
-      ],
-      "screenshots": [],
-      "createdAt": "2026-09-06T23:37:37Z",
-      "minVahoVersion": "2.0.0",
-      "tags": [
-        "github",
-        "ci",
-        "pull requests",
-        "dev"
-      ]
-    }
-  ],
+  "updatedAt": "2026-09-07T00:09:29.071Z",
+  "modes": [],
   "themes": []
 }
