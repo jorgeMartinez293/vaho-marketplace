@@ -1,34 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T00:09:28.830Z",
+  "updatedAt": "2026-09-07T00:09:28.915Z",
   "modes": [
-    {
-      "id": "com.vaho.ai-sessions",
-      "name": "AI Sessions",
-      "summary": "See what's running: Claude Code, Codex and LM Studio, at a glance.",
-      "description": "Polls LM Studio's local server directly, and Claude Code / Codex process activity through a small Shortcut you set up once (there's no local API for those two — see the mode's README for the exact five-minute setup).",
-      "author": "vaho",
-      "category": "tools",
-      "icon": "cpu",
-      "kind": "web",
-      "version": "1.0.0",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.ai-sessions/bundle.zip",
-      "sizeBytes": 4130,
-      "permissions": [
-        "network",
-        "shortcuts"
-      ],
-      "screenshots": [],
-      "createdAt": "2026-09-06T23:40:03Z",
-      "minVahoVersion": "2.0.0",
-      "tags": [
-        "ai",
-        "claude code",
-        "codex",
-        "lm studio",
-        "dev"
-      ]
-    },
     {
       "id": "com.vaho.github-glance",
       "name": "GitHub Glance",
