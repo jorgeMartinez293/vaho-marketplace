@@ -1,0 +1,22 @@
+{
+  "id": "blue-012e32",
+  "name": "BLUE",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "dock",
+    "screenSaver",
+    "sereno",
+    "bruma",
+    "appSettings",
+    "cursor",
+    "vidrio",
+    "appearance",
+    "menuBar",
+    "wallpaper"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 4230748,
+  "createdAt": "2026-09-07T00:22:07.486Z",
+  "vahoVersion": "2.0.0"
+}
