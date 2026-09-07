@@ -1,0 +1,23 @@
+{
+  "id": "lightblue-49c65c",
+  "name": "LIGHTBLUE",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "appSettings",
+    "menuBar",
+    "finder",
+    "vidrio",
+    "appearance",
+    "dock",
+    "screenSaver",
+    "sereno",
+    "cursor",
+    "bruma",
+    "wallpaper"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 1871214,
+  "createdAt": "2026-09-07T00:29:48.993Z",
+  "vahoVersion": "2.0.0"
+}
