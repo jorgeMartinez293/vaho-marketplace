@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T00:09:28.742Z",
+  "updatedAt": "2026-09-07T00:09:28.830Z",
   "modes": [
     {
       "id": "com.vaho.ai-sessions",
@@ -78,31 +78,6 @@
         "system",
         "monitor",
         "advanced"
-      ]
-    },
-    {
-      "id": "com.vaho.obsidian-search",
-      "name": "Obsidian Search",
-      "summary": "Search your Obsidian vault and jump straight to a note.",
-      "description": "Full-text search over a vault through the Local REST API community plugin, with results opening directly in Obsidian via obsidian:// links.",
-      "author": "vaho",
-      "category": "productivity",
-      "icon": "magnifyingglass",
-      "kind": "web",
-      "version": "1.0.0",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.obsidian-search/bundle.zip",
-      "sizeBytes": 3080,
-      "permissions": [
-        "network",
-        "openURL"
-      ],
-      "screenshots": [],
-      "createdAt": "2026-09-06T23:29:41Z",
-      "minVahoVersion": "2.0.0",
-      "tags": [
-        "obsidian",
-        "notes",
-        "search"
       ]
     }
   ],
