@@ -1,0 +1,22 @@
+{
+  "id": "golden-1413ff",
+  "name": "GOLDEN",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "dock",
+    "wallpaper",
+    "menuBar",
+    "screenSaver",
+    "sereno",
+    "bruma",
+    "appearance",
+    "appSettings",
+    "cursor",
+    "vidrio"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 2412266,
+  "createdAt": "2026-09-07T00:14:53.213Z",
+  "vahoVersion": "2.0.0"
+}
