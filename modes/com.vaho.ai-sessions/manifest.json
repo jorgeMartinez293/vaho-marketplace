@@ -1,0 +1,29 @@
+{
+  "id": "com.vaho.ai-sessions",
+  "name": "AI Sessions",
+  "version": "1.0.0",
+  "author": "vaho",
+  "summary": "See what's running: Claude Code, Codex and LM Studio, at a glance.",
+  "description": "Polls LM Studio's local server directly, and Claude Code / Codex process activity through a small Shortcut you set up once (there's no local API for those two \u2014 see the mode's README for the exact five-minute setup).",
+  "icon": "cpu",
+  "height": 260,
+  "category": "tools",
+  "permissions": [
+    "network",
+    "shortcuts"
+  ],
+  "allowedHosts": [
+    "127.0.0.1",
+    "localhost"
+  ],
+  "minVahoVersion": "2.0.0",
+  "tags": [
+    "ai",
+    "claude code",
+    "codex",
+    "lm studio",
+    "dev"
+  ],
+  "createdAt": "2026-09-06T23:40:03Z",
+  "sizeBytes": 4130
+}

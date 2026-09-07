@@ -1,6 +1,134 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T23:11:40.581Z",
-  "modes": [],
+  "updatedAt": "2026-09-07T00:01:45.054Z",
+  "modes": [
+    {
+      "id": "com.vaho.ai-sessions",
+      "name": "AI Sessions",
+      "summary": "See what's running: Claude Code, Codex and LM Studio, at a glance.",
+      "description": "Polls LM Studio's local server directly, and Claude Code / Codex process activity through a small Shortcut you set up once (there's no local API for those two — see the mode's README for the exact five-minute setup).",
+      "author": "vaho",
+      "category": "tools",
+      "icon": "cpu",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.ai-sessions/bundle.zip",
+      "sizeBytes": 4130,
+      "permissions": [
+        "network",
+        "shortcuts"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-06T23:40:03Z",
+      "minVahoVersion": "2.0.0",
+      "tags": [
+        "ai",
+        "claude code",
+        "codex",
+        "lm studio",
+        "dev"
+      ]
+    },
+    {
+      "id": "com.vaho.github-glance",
+      "name": "GitHub Glance",
+      "summary": "Open PRs and their CI status for a repo, one click from the notch.",
+      "description": "Lists open pull requests for a GitHub repo with combined check status, click to open in the browser. Works unauthenticated for public repos (rate-limited) or with a personal access token for private repos and a higher limit.",
+      "author": "vaho",
+      "category": "tools",
+      "icon": "arrow.triangle.pull",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.github-glance/bundle.zip",
+      "sizeBytes": 3692,
+      "permissions": [
+        "network",
+        "openURL"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-06T23:37:37Z",
+      "minVahoVersion": "2.0.0",
+      "tags": [
+        "github",
+        "ci",
+        "pull requests",
+        "dev"
+      ]
+    },
+    {
+      "id": "com.vaho.system-vitals",
+      "name": "System Vitals",
+      "summary": "CPU, memory, network and battery with graphs, peaks and running totals — for people who want more than a glance.",
+      "description": "A deeper system panel than the built-in monitor: rolling graphs with min/avg/peak per metric, session-cumulative network transfer, battery health/charge, adjustable poll rate and a pause toggle.",
+      "author": "vaho",
+      "category": "system",
+      "icon": "waveform.path.ecg",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.system-vitals/bundle.zip",
+      "sizeBytes": 3938,
+      "permissions": [
+        "system",
+        "battery"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-06T23:37:37Z",
+      "minVahoVersion": "2.0.0",
+      "tags": [
+        "system",
+        "monitor",
+        "advanced"
+      ]
+    },
+    {
+      "id": "com.vaho.obsidian-capture",
+      "name": "Obsidian Capture",
+      "summary": "Drop a quick note into your Obsidian vault without leaving the notch.",
+      "description": "Appends text to today's daily note (or any file you name) in an Obsidian vault, through the Local REST API community plugin. Requires that plugin installed and enabled in Obsidian — see the mode's README for the two-minute setup.",
+      "author": "vaho",
+      "category": "productivity",
+      "icon": "square.and.pencil",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.obsidian-capture/bundle.zip",
+      "sizeBytes": 3612,
+      "permissions": [
+        "network"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-06T23:32:34Z",
+      "minVahoVersion": "2.0.0",
+      "tags": [
+        "obsidian",
+        "notes",
+        "capture"
+      ]
+    },
+    {
+      "id": "com.vaho.obsidian-search",
+      "name": "Obsidian Search",
+      "summary": "Search your Obsidian vault and jump straight to a note.",
+      "description": "Full-text search over a vault through the Local REST API community plugin, with results opening directly in Obsidian via obsidian:// links.",
+      "author": "vaho",
+      "category": "productivity",
+      "icon": "magnifyingglass",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.vaho.obsidian-search/bundle.zip",
+      "sizeBytes": 3080,
+      "permissions": [
+        "network",
+        "openURL"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-06T23:29:41Z",
+      "minVahoVersion": "2.0.0",
+      "tags": [
+        "obsidian",
+        "notes",
+        "search"
+      ]
+    }
+  ],
   "themes": []
 }
