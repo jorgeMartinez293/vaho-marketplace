@@ -1,0 +1,22 @@
+{
+  "id": "black-c167b9",
+  "name": "BLACK",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "dock",
+    "cursor",
+    "appSettings",
+    "sereno",
+    "menuBar",
+    "wallpaper",
+    "vidrio",
+    "bruma",
+    "appearance",
+    "screenSaver"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 550452,
+  "createdAt": "2026-09-07T00:24:24.507Z",
+  "vahoVersion": "2.0.0"
+}
