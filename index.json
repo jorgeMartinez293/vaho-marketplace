@@ -1,24 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T13:47:25.466Z",
-  "modes": [
-    {
-      "id": "com.jorge.pong",
-      "name": "Pong",
-      "summary": "Classic pong — drag the paddle with your mouse.",
-      "author": "Jorge Martínez",
-      "category": "media",
-      "icon": "gamecontroller.fill",
-      "kind": "web",
-      "version": "1.0.0",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.jorge.pong/bundle.zip",
-      "sizeBytes": 2935,
-      "permissions": [],
-      "screenshots": [],
-      "createdAt": "2026-09-07T13:47:12.657Z",
-      "minVahoVersion": "2.0.0"
-    }
-  ],
+  "updatedAt": "2026-09-07T13:54:28.054Z",
+  "modes": [],
   "themes": [
     {
       "id": "lightblue-8eb46b",
