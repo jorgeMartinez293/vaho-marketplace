@@ -1,0 +1,15 @@
+{
+  "id": "com.jorge.pong",
+  "name": "Pong",
+  "author": "Jorge Martínez",
+  "version": "1.0.0",
+  "summary": "Classic pong — drag the paddle with your mouse.",
+  "description": "",
+  "icon": "gamecontroller.fill",
+  "category": "essentials",
+  "permissions": [],
+  "minVahoVersion": "2.0.0",
+  "sizeBytes": 2935,
+  "createdAt": "2026-09-07T12:22:33.488Z",
+  "updatedAt": "2026-09-07T12:22:33.488Z"
+}
