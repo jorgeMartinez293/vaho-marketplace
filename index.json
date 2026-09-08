@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T14:44:29.049Z",
+  "updatedAt": "2026-09-08T15:08:16Z",
   "modes": [
     {
       "id": "com.jorge.pong",
@@ -15,7 +15,7 @@
       "sizeBytes": 2935,
       "permissions": [],
       "screenshots": [],
-      "createdAt": "2026-09-07T14:03:32.838Z",
+      "createdAt": "2026-09-07T14:03:32Z",
       "minVahoVersion": "2.0.0"
     }
   ],
@@ -34,7 +34,7 @@
       "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-c6e80d/preview.jpg",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-c6e80d/bundle.vahotheme",
       "sizeBytes": 925494,
-      "createdAt": "2026-09-08T14:44:03.575Z",
+      "createdAt": "2026-09-08T14:44:03Z",
       "bringsWidgets": false,
       "requires": [
         {
@@ -68,7 +68,7 @@
       "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-4c54bf/preview.jpg",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-4c54bf/bundle.vahotheme",
       "sizeBytes": 925494,
-      "createdAt": "2026-09-08T14:43:57.338Z",
+      "createdAt": "2026-09-08T14:43:57Z",
       "bringsWidgets": false,
       "requires": [
         {
@@ -108,7 +108,7 @@
       "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/lightblue-8eb46b/preview.jpg",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/lightblue-8eb46b/bundle.vahotheme",
       "sizeBytes": 1868553,
-      "createdAt": "2026-09-07T10:21:45.956Z",
+      "createdAt": "2026-09-07T10:21:45Z",
       "bringsWidgets": true,
       "requires": [
         {
@@ -147,7 +147,7 @@
       "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/golden-a020e7/preview.jpg",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/golden-a020e7/bundle.vahotheme",
       "sizeBytes": 2412152,
-      "createdAt": "2026-09-07T10:21:19.867Z",
+      "createdAt": "2026-09-07T10:21:19Z",
       "bringsWidgets": true,
       "requires": [
         {
@@ -186,7 +186,7 @@
       "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/blue-1cbb93/preview.jpg",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/blue-1cbb93/bundle.vahotheme",
       "sizeBytes": 4222242,
-      "createdAt": "2026-09-07T10:20:56.136Z",
+      "createdAt": "2026-09-07T10:20:56Z",
       "bringsWidgets": true,
       "requires": [
         {
@@ -226,7 +226,7 @@
       "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/black-3e3afb/preview.jpg",
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/black-3e3afb/bundle.vahotheme",
       "sizeBytes": 553955,
-      "createdAt": "2026-09-07T10:19:50.951Z",
+      "createdAt": "2026-09-07T10:19:50Z",
       "bringsWidgets": true,
       "requires": [
         {
