@@ -1,0 +1,17 @@
+{
+  "id": "barbietheme-eb3756",
+  "name": "BARBIETHEME",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "bruma",
+    "appSettings",
+    "vidrio",
+    "sereno",
+    "wallpaper"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 923106,
+  "createdAt": "2026-09-08T16:46:26Z",
+  "vahoVersion": "2.0.0"
+}
