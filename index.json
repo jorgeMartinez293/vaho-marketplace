@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T14:03:58.628Z",
+  "updatedAt": "2026-09-08T14:42:32.573Z",
   "modes": [
     {
       "id": "com.jorge.pong",
@@ -20,6 +20,40 @@
     }
   ],
   "themes": [
+    {
+      "id": "theme-1-e2fc48",
+      "name": "Theme 1",
+      "author": "Emma Gil López",
+      "sources": [
+        "bruma",
+        "appSettings",
+        "vidrio",
+        "sereno",
+        "wallpaper"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-e2fc48/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-e2fc48/bundle.vahotheme",
+      "sizeBytes": 925492,
+      "createdAt": "2026-09-08T14:42:14.196Z",
+      "bringsWidgets": false,
+      "requires": [
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        },
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
     {
       "id": "lightblue-8eb46b",
       "name": "LIGHTBLUE",
