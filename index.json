@@ -1,7 +1,26 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T15:08:16Z",
+  "updatedAt": "2026-09-08T15:59:29Z",
   "modes": [
+    {
+      "id": "com.jorge.stocks",
+      "name": "Stocks",
+      "summary": "Follow a few tickers and see the chart in the notch.",
+      "description": "A small watchlist and a price chart. Search any stock, ETF or index, keep the ones you care about, and switch range from one day to one year. Quotes come from Yahoo Finance; the watchlist stays on this Mac.",
+      "author": "Jorge Martínez",
+      "category": "productivity",
+      "icon": "chart.line.uptrend.xyaxis",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/com.jorge.stocks/bundle.zip",
+      "sizeBytes": 8999,
+      "permissions": [
+        "network"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-08T15:59:11Z",
+      "minVahoVersion": "2.0.0"
+    },
     {
       "id": "com.jorge.pong",
       "name": "Pong",
