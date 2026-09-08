@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:39:32Z",
+  "updatedAt": "2026-09-08T16:41:03Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -40,8 +40,8 @@
   ],
   "themes": [
     {
-      "id": "monsters-high-theme-ff6b44",
-      "name": "Monsters High Theme",
+      "id": "monster-high-theme-bb3c44",
+      "name": "Monster High Theme",
       "author": "user",
       "sources": [
         "wallpaper",
@@ -50,10 +50,10 @@
         "appSettings",
         "sereno"
       ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monsters-high-theme-ff6b44/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monsters-high-theme-ff6b44/bundle.vahotheme",
-      "sizeBytes": 2643226,
-      "createdAt": "2026-09-08T16:38:52Z",
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monster-high-theme-bb3c44/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monster-high-theme-bb3c44/bundle.vahotheme",
+      "sizeBytes": 2643224,
+      "createdAt": "2026-09-08T16:40:45Z",
       "bringsWidgets": false,
       "requires": [
         {
