@@ -1,0 +1,17 @@
+{
+  "id": "pink-theme-4c54bf",
+  "name": "Pink theme",
+  "author": "Emma Gil López",
+  "description": "",
+  "sources": [
+    "bruma",
+    "appSettings",
+    "vidrio",
+    "sereno",
+    "wallpaper"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 925494,
+  "createdAt": "2026-09-08T14:43:57.338Z",
+  "vahoVersion": "2.0.0"
+}
