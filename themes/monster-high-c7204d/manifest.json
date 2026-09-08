@@ -1,0 +1,17 @@
+{
+  "id": "monster-high-c7204d",
+  "name": "Monster High",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "appSettings",
+    "wallpaper",
+    "vidrio",
+    "sereno",
+    "bruma"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 2635314,
+  "createdAt": "2026-09-08T16:44:25Z",
+  "vahoVersion": "2.0.0"
+}
