@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:42:58Z",
+  "updatedAt": "2026-09-08T16:44:37Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -40,6 +40,40 @@
   ],
   "themes": [
     {
+      "id": "monster-high-c7204d",
+      "name": "Monster High",
+      "author": "user",
+      "sources": [
+        "appSettings",
+        "wallpaper",
+        "vidrio",
+        "sereno",
+        "bruma"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monster-high-c7204d/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monster-high-c7204d/bundle.vahotheme",
+      "sizeBytes": 2635314,
+      "createdAt": "2026-09-08T16:44:25Z",
+      "bringsWidgets": false,
+      "requires": [
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        }
+      ]
+    },
+    {
       "id": "barbie-9e14c3",
       "name": "Barbie",
       "author": "user",
@@ -54,40 +88,6 @@
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/barbie-9e14c3/bundle.vahotheme",
       "sizeBytes": 923098,
       "createdAt": "2026-09-08T16:42:17Z",
-      "bringsWidgets": false,
-      "requires": [
-        {
-          "source": "bruma",
-          "name": "bruma",
-          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
-        },
-        {
-          "source": "vidrio",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        },
-        {
-          "source": "sereno",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        }
-      ]
-    },
-    {
-      "id": "monster-high-873832",
-      "name": "Monster High",
-      "author": "user",
-      "sources": [
-        "wallpaper",
-        "bruma",
-        "vidrio",
-        "appSettings",
-        "sereno"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monster-high-873832/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monster-high-873832/bundle.vahotheme",
-      "sizeBytes": 2643221,
-      "createdAt": "2026-09-08T16:41:38Z",
       "bringsWidgets": false,
       "requires": [
         {
