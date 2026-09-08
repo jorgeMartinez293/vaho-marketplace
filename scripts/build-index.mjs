@@ -10,6 +10,16 @@ const root = process.cwd();
 // download them straight from the index).
 const BASE = process.env.PAGES_BASE_URL || "https://jorgeMartinez293.github.io/vaho-marketplace";
 
+// Dates go out WITHOUT fractional seconds: the app decodes them with JSONDecoder's
+// .iso8601 strategy, which is ISO8601DateFormatter with .withInternetDateTime only — it
+// returns nil for "…:58.049Z", and a nil for the non-optional-decode `updatedAt` throws
+// away the whole catalog ("Couldn't reach the store"). Newer Foundation tolerates the
+// fraction, older ones (macOS 13-15) do not, so it must never be emitted.
+function iso(value) {
+  if (!value) return undefined;
+  return String(value).replace(/\.\d+(?=(Z|[+-]\d{2}:?\d{2})$)/, "");
+}
+
 function entries(dir) {
   if (!existsSync(dir)) return [];
   return readdirSync(dir)
@@ -26,7 +36,7 @@ const themes = entries(join(root, "themes")).map(({ id, meta }) => ({
   previewURL: existsSync(join(root, "themes", id, "preview.jpg")) ? `${BASE}/themes/${id}/preview.jpg` : undefined,
   downloadURL: `${BASE}/themes/${id}/bundle.vahotheme`,
   sizeBytes: meta.sizeBytes,
-  createdAt: meta.createdAt,
+  createdAt: iso(meta.createdAt),
   bringsWidgets: meta.bringsWidgets || false,
   tags: meta.tags || undefined,
   requires: (meta.sources || []).flatMap(source => {
@@ -50,7 +60,7 @@ const modes = entries(join(root, "modes")).map(({ id, meta }) => ({
   sizeBytes: meta.sizeBytes,
   permissions: meta.permissions || [],
   screenshots: (meta.screenshots || []).map(s => `${BASE}/modes/${id}/${s}`),
-  createdAt: meta.createdAt,
+  createdAt: iso(meta.createdAt),
   minVahoVersion: meta.minVahoVersion || undefined,
   tags: meta.tags || undefined
 })).sort((a, b) => (b.createdAt || "").localeCompare(a.createdAt || ""));
@@ -64,7 +74,7 @@ if (existsSync(join(root, "builtin-modes.json"))) {
 
 const index = {
   version: 1,
-  updatedAt: new Date().toISOString(),
+  updatedAt: iso(new Date().toISOString()),
   modes: [...builtin, ...modes],
   themes
 };
