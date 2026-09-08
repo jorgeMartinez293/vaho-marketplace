@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:03:51Z",
+  "updatedAt": "2026-09-08T16:06:09Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -39,40 +39,6 @@
     }
   ],
   "themes": [
-    {
-      "id": "pink-theme-4c54bf",
-      "name": "Pink theme",
-      "author": "Emma Gil López",
-      "sources": [
-        "bruma",
-        "appSettings",
-        "vidrio",
-        "sereno",
-        "wallpaper"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-4c54bf/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-4c54bf/bundle.vahotheme",
-      "sizeBytes": 925494,
-      "createdAt": "2026-09-08T14:43:57Z",
-      "bringsWidgets": false,
-      "requires": [
-        {
-          "source": "bruma",
-          "name": "bruma",
-          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
-        },
-        {
-          "source": "vidrio",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        },
-        {
-          "source": "sereno",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        }
-      ]
-    },
     {
       "id": "lightblue-8eb46b",
       "name": "LIGHTBLUE",
