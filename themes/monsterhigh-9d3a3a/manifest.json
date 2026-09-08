@@ -1,0 +1,17 @@
+{
+  "id": "monsterhigh-9d3a3a",
+  "name": "MONSTERHIGH",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "appSettings",
+    "wallpaper",
+    "vidrio",
+    "sereno",
+    "bruma"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 2635318,
+  "createdAt": "2026-09-08T16:46:42Z",
+  "vahoVersion": "2.0.0"
+}
