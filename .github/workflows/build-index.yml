@@ -9,6 +9,13 @@ on:
 permissions:
   contents: write
 
+# One upload lands as several commits (bundle, preview, manifest), so several runs used to
+# start seconds apart and race each other's `git push`. Queue them instead of cancelling:
+# a cancelled run would drop the rebuild for whatever it was carrying.
+concurrency:
+  group: build-index
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,13 +24,29 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/build-index.mjs
+      - name: Build and commit index.json
         env:
           PAGES_BASE_URL: https://jorgeMartinez293.github.io/vaho-marketplace
-      - name: Commit index.json
         run: |
           git config user.name "vaho-bot"
           git config user.email "bot@vaho.app"
-          git add index.json
-          git diff --cached --quiet || git commit -m "chore: rebuild index.json"
-          git push
+          for attempt in 1 2 3 4 5; do
+            node scripts/build-index.mjs
+            git add index.json
+            if git diff --cached --quiet; then
+              echo "index.json already up to date"
+              exit 0
+            fi
+            git commit -m "chore: rebuild index.json"
+            if git push; then
+              exit 0
+            fi
+            # Someone pushed while we were building. Take their tree and rebuild on top of
+            # it rather than rebasing our index.json commit into a conflict.
+            echo "push rejected — refetching and rebuilding (attempt $attempt)"
+            git fetch origin main
+            git reset --hard origin/main
+            sleep $((attempt * 3))
+          done
+          echo "::error::could not push index.json after 5 attempts"
+          exit 1
