@@ -1,0 +1,17 @@
+{
+  "id": "theme-1-810b37",
+  "name": "Theme 1",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "wallpaper",
+    "sereno",
+    "vidrio",
+    "appSettings",
+    "bruma"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 3284221,
+  "createdAt": "2026-09-08T16:35:28Z",
+  "vahoVersion": "2.0.0"
+}
