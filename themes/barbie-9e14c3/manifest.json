@@ -1,0 +1,17 @@
+{
+  "id": "barbie-9e14c3",
+  "name": "Barbie",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "bruma",
+    "appSettings",
+    "vidrio",
+    "sereno",
+    "wallpaper"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 923098,
+  "createdAt": "2026-09-08T16:42:17Z",
+  "vahoVersion": "2.0.0"
+}
