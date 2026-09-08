@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:42:11Z",
+  "updatedAt": "2026-09-08T16:42:37Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -39,6 +39,40 @@
     }
   ],
   "themes": [
+    {
+      "id": "barbie-9e14c3",
+      "name": "Barbie",
+      "author": "user",
+      "sources": [
+        "bruma",
+        "appSettings",
+        "vidrio",
+        "sereno",
+        "wallpaper"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/barbie-9e14c3/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/barbie-9e14c3/bundle.vahotheme",
+      "sizeBytes": 923098,
+      "createdAt": "2026-09-08T16:42:17Z",
+      "bringsWidgets": false,
+      "requires": [
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        },
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
     {
       "id": "monster-high-873832",
       "name": "Monster High",
