@@ -1,0 +1,17 @@
+{
+  "id": "monster-high-theme-bb3c44",
+  "name": "Monster High Theme",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "wallpaper",
+    "bruma",
+    "vidrio",
+    "appSettings",
+    "sereno"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 2643224,
+  "createdAt": "2026-09-08T16:40:45Z",
+  "vahoVersion": "2.0.0"
+}
