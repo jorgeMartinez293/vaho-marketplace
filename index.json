@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T14:42:32.573Z",
+  "updatedAt": "2026-09-08T14:44:29.049Z",
   "modes": [
     {
       "id": "com.jorge.pong",
@@ -21,8 +21,8 @@
   ],
   "themes": [
     {
-      "id": "theme-1-e2fc48",
-      "name": "Theme 1",
+      "id": "pink-theme-c6e80d",
+      "name": "Pink theme",
       "author": "Emma Gil López",
       "sources": [
         "bruma",
@@ -31,10 +31,44 @@
         "sereno",
         "wallpaper"
       ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-e2fc48/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-e2fc48/bundle.vahotheme",
-      "sizeBytes": 925492,
-      "createdAt": "2026-09-08T14:42:14.196Z",
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-c6e80d/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-c6e80d/bundle.vahotheme",
+      "sizeBytes": 925494,
+      "createdAt": "2026-09-08T14:44:03.575Z",
+      "bringsWidgets": false,
+      "requires": [
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        },
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
+    {
+      "id": "pink-theme-4c54bf",
+      "name": "Pink theme",
+      "author": "Emma Gil López",
+      "sources": [
+        "bruma",
+        "appSettings",
+        "vidrio",
+        "sereno",
+        "wallpaper"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-4c54bf/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/pink-theme-4c54bf/bundle.vahotheme",
+      "sizeBytes": 925494,
+      "createdAt": "2026-09-08T14:43:57.338Z",
       "bringsWidgets": false,
       "requires": [
         {
