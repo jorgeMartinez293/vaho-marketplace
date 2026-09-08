@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:44:56Z",
+  "updatedAt": "2026-09-08T16:47:00Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -40,8 +40,8 @@
   ],
   "themes": [
     {
-      "id": "monster-high-c7204d",
-      "name": "Monster High",
+      "id": "monsterhigh-9d3a3a",
+      "name": "MONSTERHIGH",
       "author": "user",
       "sources": [
         "appSettings",
@@ -50,10 +50,10 @@
         "sereno",
         "bruma"
       ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monster-high-c7204d/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monster-high-c7204d/bundle.vahotheme",
-      "sizeBytes": 2635314,
-      "createdAt": "2026-09-08T16:44:25Z",
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monsterhigh-9d3a3a/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/monsterhigh-9d3a3a/bundle.vahotheme",
+      "sizeBytes": 2635318,
+      "createdAt": "2026-09-08T16:46:42Z",
       "bringsWidgets": false,
       "requires": [
         {
@@ -74,8 +74,8 @@
       ]
     },
     {
-      "id": "barbie-9e14c3",
-      "name": "Barbie",
+      "id": "barbietheme-eb3756",
+      "name": "BARBIETHEME",
       "author": "user",
       "sources": [
         "bruma",
@@ -84,10 +84,10 @@
         "sereno",
         "wallpaper"
       ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/barbie-9e14c3/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/barbie-9e14c3/bundle.vahotheme",
-      "sizeBytes": 923098,
-      "createdAt": "2026-09-08T16:42:17Z",
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/barbietheme-eb3756/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/barbietheme-eb3756/bundle.vahotheme",
+      "sizeBytes": 923106,
+      "createdAt": "2026-09-08T16:46:26Z",
       "bringsWidgets": false,
       "requires": [
         {
