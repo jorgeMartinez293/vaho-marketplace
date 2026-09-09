@@ -1,0 +1,23 @@
+{
+  "id": "bluestroke-8feac6",
+  "name": "BLUESTROKE",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "sereno",
+    "menuBar",
+    "appSettings",
+    "dock",
+    "bruma",
+    "screenSaver",
+    "finder",
+    "appearance",
+    "cursor",
+    "wallpaper",
+    "vidrio"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 3024551,
+  "createdAt": "2026-09-09T11:05:41Z",
+  "vahoVersion": "2.0.1"
+}
