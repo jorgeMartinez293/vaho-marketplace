@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T16:47:19Z",
+  "updatedAt": "2026-09-09T11:05:59Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -39,6 +39,46 @@
     }
   ],
   "themes": [
+    {
+      "id": "bluestroke-8feac6",
+      "name": "BLUESTROKE",
+      "author": "Jorge Martínez",
+      "sources": [
+        "sereno",
+        "menuBar",
+        "appSettings",
+        "dock",
+        "bruma",
+        "screenSaver",
+        "finder",
+        "appearance",
+        "cursor",
+        "wallpaper",
+        "vidrio"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/bluestroke-8feac6/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/bluestroke-8feac6/bundle.vahotheme",
+      "sizeBytes": 3024551,
+      "createdAt": "2026-09-09T11:05:41Z",
+      "bringsWidgets": true,
+      "requires": [
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        },
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
     {
       "id": "monsterhigh-9d3a3a",
       "name": "MONSTERHIGH",
