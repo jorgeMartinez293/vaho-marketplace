@@ -1,0 +1,22 @@
+{
+  "id": "theme-1-69bfb8",
+  "name": "Theme 1",
+  "author": "Ivan Papson",
+  "description": "",
+  "sources": [
+    "menuBar",
+    "terminalApp",
+    "hotCorners",
+    "cursor",
+    "wallpaper",
+    "screenSaver",
+    "appearance",
+    "appSettings",
+    "dock",
+    "finder"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 1871746,
+  "createdAt": "2026-09-12T12:43:14Z",
+  "vahoVersion": "2.0.1"
+}
