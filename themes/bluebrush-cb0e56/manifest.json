@@ -1,0 +1,23 @@
+{
+  "id": "bluebrush-cb0e56",
+  "name": "BLUEBRUSH",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "sereno",
+    "menuBar",
+    "appSettings",
+    "dock",
+    "bruma",
+    "screenSaver",
+    "finder",
+    "appearance",
+    "cursor",
+    "wallpaper",
+    "vidrio"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 3024548,
+  "createdAt": "2026-09-12T08:31:05Z",
+  "vahoVersion": "2.0.1"
+}
