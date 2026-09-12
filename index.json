@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T11:06:16Z",
+  "updatedAt": "2026-09-12T08:31:25Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -40,8 +40,8 @@
   ],
   "themes": [
     {
-      "id": "bluestroke-8feac6",
-      "name": "BLUESTROKE",
+      "id": "bluebrush-cb0e56",
+      "name": "BLUEBRUSH",
       "author": "Jorge Martínez",
       "sources": [
         "sereno",
@@ -56,10 +56,10 @@
         "wallpaper",
         "vidrio"
       ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/bluestroke-8feac6/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/bluestroke-8feac6/bundle.vahotheme",
-      "sizeBytes": 3024551,
-      "createdAt": "2026-09-09T11:05:41Z",
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/bluebrush-cb0e56/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/bluebrush-cb0e56/bundle.vahotheme",
+      "sizeBytes": 3024548,
+      "createdAt": "2026-09-12T08:31:05Z",
       "bringsWidgets": true,
       "requires": [
         {
