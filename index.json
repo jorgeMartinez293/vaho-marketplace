@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T08:31:43Z",
+  "updatedAt": "2026-09-12T12:43:34Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -39,6 +39,29 @@
     }
   ],
   "themes": [
+    {
+      "id": "theme-1-69bfb8",
+      "name": "Theme 1",
+      "author": "Ivan Papson",
+      "sources": [
+        "menuBar",
+        "terminalApp",
+        "hotCorners",
+        "cursor",
+        "wallpaper",
+        "screenSaver",
+        "appearance",
+        "appSettings",
+        "dock",
+        "finder"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-69bfb8/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-69bfb8/bundle.vahotheme",
+      "sizeBytes": 1871746,
+      "createdAt": "2026-09-12T12:43:14Z",
+      "bringsWidgets": false,
+      "requires": []
+    },
     {
       "id": "bluebrush-cb0e56",
       "name": "BLUEBRUSH",
