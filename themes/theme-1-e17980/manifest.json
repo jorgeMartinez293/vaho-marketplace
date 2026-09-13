@@ -1,0 +1,22 @@
+{
+  "id": "theme-1-e17980",
+  "name": "Theme 1",
+  "author": "Mario Delgado",
+  "description": "",
+  "sources": [
+    "appearance",
+    "screenSaver",
+    "menuBar",
+    "appSettings",
+    "dock",
+    "cursor",
+    "terminalApp",
+    "finder",
+    "hotCorners",
+    "wallpaper"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 2141637,
+  "createdAt": "2026-09-13T18:03:45Z",
+  "vahoVersion": "2.0.1"
+}
