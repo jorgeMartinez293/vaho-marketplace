@@ -1,0 +1,17 @@
+{
+  "id": "snipergirl-44ccaf",
+  "name": "SNIPERGIRL",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "bruma",
+    "appSettings",
+    "sereno",
+    "vidrio",
+    "wallpaper"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 3156565,
+  "createdAt": "2026-09-13T11:27:12Z",
+  "vahoVersion": "2.0.1"
+}
