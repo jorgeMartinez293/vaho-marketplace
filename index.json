@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T12:43:54Z",
+  "updatedAt": "2026-09-13T05:04:48Z",
   "modes": [
     {
       "id": "com.jorge.stocks",
@@ -39,6 +39,29 @@
     }
   ],
   "themes": [
+    {
+      "id": "theme-2-61fd80",
+      "name": "Theme 2",
+      "author": "Louis Pham",
+      "sources": [
+        "terminalApp",
+        "finder",
+        "screenSaver",
+        "hotCorners",
+        "appSettings",
+        "appearance",
+        "dock",
+        "wallpaper",
+        "menuBar",
+        "cursor"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-2-61fd80/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-2-61fd80/bundle.vahotheme",
+      "sizeBytes": 1864927,
+      "createdAt": "2026-09-13T05:04:19Z",
+      "bringsWidgets": false,
+      "requires": []
+    },
     {
       "id": "theme-1-69bfb8",
       "name": "Theme 1",
