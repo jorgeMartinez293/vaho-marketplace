@@ -1,0 +1,22 @@
+{
+  "id": "roji-a5f876",
+  "name": "Roji",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "wallpaper",
+    "bruma",
+    "sereno",
+    "menuBar",
+    "vidrio",
+    "screenSaver",
+    "appearance",
+    "dock",
+    "finder",
+    "cursor"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 1430021,
+  "createdAt": "2026-09-15T22:01:11Z",
+  "vahoVersion": "2.0.7"
+}
