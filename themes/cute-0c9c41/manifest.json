@@ -1,0 +1,17 @@
+{
+  "id": "cute-0c9c41",
+  "name": "CUTE",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "wallpaper",
+    "appSettings",
+    "sereno",
+    "vidrio",
+    "bruma"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 448415,
+  "createdAt": "2026-09-15T17:23:56Z",
+  "vahoVersion": "2.0.7"
+}
