@@ -1,0 +1,22 @@
+{
+  "id": "macpro-a48ffd",
+  "name": "MACPRO",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "screenSaver",
+    "sereno",
+    "bruma",
+    "menuBar",
+    "dock",
+    "finder",
+    "wallpaper",
+    "vidrio",
+    "appearance",
+    "cursor"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 921087,
+  "createdAt": "2026-09-15T22:01:07Z",
+  "vahoVersion": "2.0.7"
+}
