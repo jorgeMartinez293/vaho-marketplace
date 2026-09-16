@@ -1,0 +1,15 @@
+{
+  "id": "vaho.worldclock",
+  "name": "World Clock",
+  "author": "Jorge Martínez",
+  "version": "1.0.0",
+  "summary": "Your cities at a glance, on living day/night strips you can scrub to plan across time zones.",
+  "description": "",
+  "icon": "globe.europe.africa.fill",
+  "category": "productivity",
+  "permissions": [],
+  "minVahoVersion": "2.0.0",
+  "sizeBytes": 14748,
+  "createdAt": "2026-09-16T13:35:04Z",
+  "updatedAt": "2026-09-16T13:35:04Z"
+}
