@@ -1,7 +1,26 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T13:36:03Z",
+  "updatedAt": "2026-09-16T13:37:02Z",
   "modes": [
+    {
+      "id": "vaho.github",
+      "name": "GitHub",
+      "summary": "Your pull requests, review requests, notifications and contribution graph, one hover away.",
+      "author": "Jorge Martínez",
+      "category": "productivity",
+      "icon": "chevron.left.forwardslash.chevron.right",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/vaho.github/bundle.zip",
+      "sizeBytes": 15378,
+      "permissions": [
+        "network",
+        "openURL"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-16T13:36:44Z",
+      "minVahoVersion": "2.0.0"
+    },
     {
       "id": "vaho.coin",
       "name": "Coin",
