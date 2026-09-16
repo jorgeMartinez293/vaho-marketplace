@@ -1,0 +1,19 @@
+{
+  "id": "vaho.lyrics",
+  "name": "Lyrics",
+  "author": "Jorge Martínez",
+  "version": "1.0.0",
+  "summary": "Time-synced lyrics for whatever's playing, with karaoke highlighting and tap-to-seek.",
+  "description": "",
+  "icon": "quote.bubble.fill",
+  "category": "media",
+  "permissions": [
+    "nowPlaying",
+    "media",
+    "network"
+  ],
+  "minVahoVersion": "2.0.0",
+  "sizeBytes": 11053,
+  "createdAt": "2026-09-16T20:53:53Z",
+  "updatedAt": "2026-09-16T20:53:53Z"
+}
