@@ -1,0 +1,15 @@
+{
+  "id": "vaho.coin",
+  "name": "Coin",
+  "author": "Jorge Martínez",
+  "version": "1.0.0",
+  "summary": "Flip a minted 3D coin — heads or tails, with real spin and a metallic ring.",
+  "description": "",
+  "icon": "centsign.circle.fill",
+  "category": "other",
+  "permissions": [],
+  "minVahoVersion": "2.0.0",
+  "sizeBytes": 224806,
+  "createdAt": "2026-09-16T13:35:30Z",
+  "updatedAt": "2026-09-16T13:35:30Z"
+}
