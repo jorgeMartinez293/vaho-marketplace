@@ -1,7 +1,23 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T13:35:22Z",
+  "updatedAt": "2026-09-16T13:35:44Z",
   "modes": [
+    {
+      "id": "vaho.coin",
+      "name": "Coin",
+      "summary": "Flip a minted 3D coin — heads or tails, with real spin and a metallic ring.",
+      "author": "Jorge Martínez",
+      "category": "other",
+      "icon": "centsign.circle.fill",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/vaho.coin/bundle.zip",
+      "sizeBytes": 224806,
+      "permissions": [],
+      "screenshots": [],
+      "createdAt": "2026-09-16T13:35:30Z",
+      "minVahoVersion": "2.0.0"
+    },
     {
       "id": "vaho.worldclock",
       "name": "World Clock",
