@@ -1,7 +1,41 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T13:37:20Z",
+  "updatedAt": "2026-09-16T15:08:53Z",
   "modes": [
+    {
+      "id": "vaho.dice",
+      "name": "Dice",
+      "summary": "Roll a real 3D die across your notch — physics, sound and four finishes.",
+      "author": "Jorge Martínez",
+      "category": "other",
+      "icon": "die.face.5.fill",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/vaho.dice/bundle.zip",
+      "sizeBytes": 224656,
+      "permissions": [],
+      "screenshots": [],
+      "createdAt": "2026-09-16T15:08:44Z",
+      "minVahoVersion": "2.0.0"
+    },
+    {
+      "id": "vaho.converter",
+      "name": "Converter",
+      "summary": "Currencies with live ECB rates and 30-day trends, plus length, weight, temperature, data and more.",
+      "author": "Jorge Martínez",
+      "category": "tools",
+      "icon": "arrow.left.arrow.right.circle.fill",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/vaho.converter/bundle.zip",
+      "sizeBytes": 13375,
+      "permissions": [
+        "network"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-16T15:08:35Z",
+      "minVahoVersion": "2.0.0"
+    },
     {
       "id": "vaho.github",
       "name": "GitHub",
