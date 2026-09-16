@@ -1,7 +1,23 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15T22:01:43Z",
+  "updatedAt": "2026-09-16T13:35:22Z",
   "modes": [
+    {
+      "id": "vaho.worldclock",
+      "name": "World Clock",
+      "summary": "Your cities at a glance, on living day/night strips you can scrub to plan across time zones.",
+      "author": "Jorge Martínez",
+      "category": "productivity",
+      "icon": "globe.europe.africa.fill",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/vaho.worldclock/bundle.zip",
+      "sizeBytes": 14748,
+      "permissions": [],
+      "screenshots": [],
+      "createdAt": "2026-09-16T13:35:04Z",
+      "minVahoVersion": "2.0.0"
+    },
     {
       "id": "com.jorge.stocks",
       "name": "Stocks",
