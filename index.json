@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T20:59:35Z",
+  "updatedAt": "2026-09-17T11:35:31Z",
   "modes": [
+    {
+      "id": "vaho.lyrics",
+      "name": "Lyrics",
+      "summary": "Time-synced lyrics for whatever's playing, with karaoke highlighting and tap-to-seek.",
+      "author": "Jorge Martínez",
+      "category": "media",
+      "icon": "quote.bubble.fill",
+      "kind": "web",
+      "version": "1.0.0",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/modes/vaho.lyrics/bundle.zip",
+      "sizeBytes": 11053,
+      "permissions": [
+        "nowPlaying",
+        "media",
+        "network"
+      ],
+      "screenshots": [],
+      "createdAt": "2026-09-17T11:35:12Z",
+      "minVahoVersion": "2.0.0"
+    },
     {
       "id": "vaho.dice",
       "name": "Dice",
