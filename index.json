@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T11:35:50Z",
+  "updatedAt": "2026-09-21T09:19:35Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -144,6 +144,45 @@
     }
   ],
   "themes": [
+    {
+      "id": "north-39af8e",
+      "name": "NORTH",
+      "author": "Jorge Martínez",
+      "sources": [
+        "bruma",
+        "finder",
+        "wallpaper",
+        "menuBar",
+        "vidrio",
+        "cursor",
+        "sereno",
+        "appearance",
+        "dock",
+        "screenSaver"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/north-39af8e/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/north-39af8e/bundle.vahotheme",
+      "sizeBytes": 2369223,
+      "createdAt": "2026-09-21T09:19:17Z",
+      "bringsWidgets": true,
+      "requires": [
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        },
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
     {
       "id": "roji-a5f876",
       "name": "Roji",
