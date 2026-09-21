@@ -1,0 +1,22 @@
+{
+  "id": "north-39af8e",
+  "name": "NORTH",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "bruma",
+    "finder",
+    "wallpaper",
+    "menuBar",
+    "vidrio",
+    "cursor",
+    "sereno",
+    "appearance",
+    "dock",
+    "screenSaver"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 2369223,
+  "createdAt": "2026-09-21T09:19:17Z",
+  "vahoVersion": "2.1.6"
+}
