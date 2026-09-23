@@ -1,0 +1,17 @@
+{
+  "id": "cute-theme-74b435",
+  "name": "CUTE THEME",
+  "author": "user",
+  "description": "",
+  "sources": [
+    "sereno",
+    "appSettings",
+    "vidrio",
+    "bruma",
+    "wallpaper"
+  ],
+  "bringsWidgets": true,
+  "sizeBytes": 458265,
+  "createdAt": "2026-09-23T09:51:50Z",
+  "vahoVersion": "2.0.7"
+}
