@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T09:19:52Z",
+  "updatedAt": "2026-09-23T09:52:11Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -144,6 +144,40 @@
     }
   ],
   "themes": [
+    {
+      "id": "cute-theme-74b435",
+      "name": "CUTE THEME",
+      "author": "user",
+      "sources": [
+        "sereno",
+        "appSettings",
+        "vidrio",
+        "bruma",
+        "wallpaper"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/cute-theme-74b435/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/cute-theme-74b435/bundle.vahotheme",
+      "sizeBytes": 458265,
+      "createdAt": "2026-09-23T09:51:50Z",
+      "bringsWidgets": true,
+      "requires": [
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "bruma",
+          "name": "bruma",
+          "downloadURL": "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg"
+        }
+      ]
+    },
     {
       "id": "north-39af8e",
       "name": "NORTH",
