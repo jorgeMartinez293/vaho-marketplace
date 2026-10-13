@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T09:52:32Z",
+  "updatedAt": "2026-10-13T14:14:01Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -144,6 +144,72 @@
     }
   ],
   "themes": [
+    {
+      "id": "solitude-cff6e7",
+      "name": "Solitude",
+      "author": "Jorge Martínez",
+      "sources": [
+        "vidrio",
+        "screenSaver",
+        "menuBar",
+        "cursor",
+        "sereno",
+        "neowall",
+        "finder",
+        "dock",
+        "appearance"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/solitude-cff6e7/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/solitude-cff6e7/bundle.vahotheme",
+      "sizeBytes": 218133,
+      "createdAt": "2026-10-13T14:13:47Z",
+      "bringsWidgets": false,
+      "requires": [
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
+    {
+      "id": "white-bc24ad",
+      "name": "White",
+      "author": "Jorge Martínez",
+      "sources": [
+        "cursor",
+        "menuBar",
+        "neowall",
+        "appearance",
+        "dock",
+        "vidrio",
+        "screenSaver",
+        "sereno",
+        "finder"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-bc24ad/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-bc24ad/bundle.vahotheme",
+      "sizeBytes": 318005,
+      "createdAt": "2026-10-13T14:13:39Z",
+      "bringsWidgets": false,
+      "requires": [
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        },
+        {
+          "source": "sereno",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
     {
       "id": "cute-theme-74b435",
       "name": "CUTE THEME",
