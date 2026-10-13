@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T14:15:37Z",
+  "updatedAt": "2026-10-13T14:16:57Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -163,39 +163,6 @@
       "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-55066d/bundle.vahotheme",
       "sizeBytes": 318005,
       "createdAt": "2026-10-13T14:14:54Z",
-      "bringsWidgets": false,
-      "requires": [
-        {
-          "source": "vidrio",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        },
-        {
-          "source": "sereno",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        }
-      ]
-    },
-    {
-      "id": "white-043544",
-      "name": "White",
-      "author": "Jorge Martínez",
-      "sources": [
-        "cursor",
-        "menuBar",
-        "neowall",
-        "appearance",
-        "dock",
-        "vidrio",
-        "screenSaver",
-        "sereno",
-        "finder"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-043544/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-043544/bundle.vahotheme",
-      "sizeBytes": 318005,
-      "createdAt": "2026-10-13T14:14:47Z",
       "bringsWidgets": false,
       "requires": [
         {
