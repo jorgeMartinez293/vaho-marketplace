@@ -1,0 +1,17 @@
+{
+  "id": "com.vaho.reviewtest",
+  "name": "Review Test",
+  "author": "Jorge (review flow test)",
+  "version": "1.0.0",
+  "summary": "review-gate test",
+  "description": "",
+  "icon": "checkmark.seal",
+  "category": "other",
+  "permissions": [
+    "reminders"
+  ],
+  "minVahoVersion": "",
+  "sizeBytes": 558,
+  "createdAt": "2026-09-18T16:40:13Z",
+  "updatedAt": "2026-09-18T16:40:13Z"
+}
