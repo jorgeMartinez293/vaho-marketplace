@@ -1,0 +1,21 @@
+{
+  "id": "white-55066d",
+  "name": "White",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "cursor",
+    "menuBar",
+    "neowall",
+    "appearance",
+    "dock",
+    "vidrio",
+    "screenSaver",
+    "sereno",
+    "finder"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 318005,
+  "createdAt": "2026-10-13T14:14:54Z",
+  "vahoVersion": "2.2.0"
+}
