@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T14:14:23Z",
+  "updatedAt": "2026-10-13T14:15:18Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -145,24 +145,24 @@
   ],
   "themes": [
     {
-      "id": "solitude-cff6e7",
-      "name": "Solitude",
+      "id": "white-55066d",
+      "name": "White",
       "author": "Jorge Martínez",
       "sources": [
+        "cursor",
+        "menuBar",
+        "neowall",
+        "appearance",
+        "dock",
         "vidrio",
         "screenSaver",
-        "menuBar",
-        "cursor",
         "sereno",
-        "neowall",
-        "finder",
-        "dock",
-        "appearance"
+        "finder"
       ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/solitude-cff6e7/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/solitude-cff6e7/bundle.vahotheme",
-      "sizeBytes": 218133,
-      "createdAt": "2026-10-13T14:13:47Z",
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-55066d/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-55066d/bundle.vahotheme",
+      "sizeBytes": 318005,
+      "createdAt": "2026-10-13T14:14:54Z",
       "bringsWidgets": false,
       "requires": [
         {
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "id": "white-bc24ad",
+      "id": "white-043544",
       "name": "White",
       "author": "Jorge Martínez",
       "sources": [
@@ -192,10 +192,10 @@
         "sereno",
         "finder"
       ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-bc24ad/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-bc24ad/bundle.vahotheme",
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-043544/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-043544/bundle.vahotheme",
       "sizeBytes": 318005,
-      "createdAt": "2026-10-13T14:13:39Z",
+      "createdAt": "2026-10-13T14:14:47Z",
       "bringsWidgets": false,
       "requires": [
         {
