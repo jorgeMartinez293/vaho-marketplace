@@ -1,0 +1,21 @@
+{
+  "id": "white-bc24ad",
+  "name": "White",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "cursor",
+    "menuBar",
+    "neowall",
+    "appearance",
+    "dock",
+    "vidrio",
+    "screenSaver",
+    "sereno",
+    "finder"
+  ],
+  "bringsWidgets": false,
+  "sizeBytes": 318005,
+  "createdAt": "2026-10-13T14:13:39Z",
+  "vahoVersion": "2.2.0"
+}
