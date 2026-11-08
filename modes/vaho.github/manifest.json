@@ -2,7 +2,7 @@
   "id": "vaho.github",
   "name": "GitHub",
   "author": "Jorge Martínez",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Your pull requests, review requests, notifications and contribution graph, one hover away.",
   "description": "",
   "icon": "chevron.left.forwardslash.chevron.right",
@@ -11,8 +11,8 @@
     "network",
     "openURL"
   ],
-  "minVahoVersion": "2.0.0",
-  "sizeBytes": 15378,
+  "minVahoVersion": "2.4.2",
+  "sizeBytes": 13637,
   "createdAt": "2026-09-16T13:36:44Z",
-  "updatedAt": "2026-09-16T13:36:44Z"
+  "updatedAt": "2026-11-08T11:28:40Z"
 }

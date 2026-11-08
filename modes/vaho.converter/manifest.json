@@ -2,7 +2,7 @@
   "id": "vaho.converter",
   "name": "Converter",
   "author": "Jorge Martínez",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Currencies with live ECB rates and 30-day trends, plus length, weight, temperature, data and more.",
   "description": "",
   "icon": "arrow.left.arrow.right.circle.fill",
@@ -10,8 +10,8 @@
   "permissions": [
     "network"
   ],
-  "minVahoVersion": "2.0.0",
-  "sizeBytes": 13375,
+  "minVahoVersion": "2.4.2",
+  "sizeBytes": 11580,
   "createdAt": "2026-09-16T15:08:35Z",
-  "updatedAt": "2026-09-16T15:08:35Z"
+  "updatedAt": "2026-11-08T11:28:40Z"
 }

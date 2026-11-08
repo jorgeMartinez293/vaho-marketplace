@@ -2,7 +2,7 @@
   "id": "com.jorge.stocks",
   "name": "Stocks",
   "author": "Jorge Martínez",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Follow a few tickers and see the chart in the notch.",
   "description": "A small watchlist and a price chart. Search any stock, ETF or index, keep the ones you care about, and switch range from one day to one year. Quotes come from Yahoo Finance; the watchlist stays on this Mac.",
   "icon": "chart.line.uptrend.xyaxis",
@@ -10,8 +10,8 @@
   "permissions": [
     "network"
   ],
-  "minVahoVersion": "2.0.0",
-  "sizeBytes": 9169,
+  "minVahoVersion": "2.4.2",
+  "sizeBytes": 7317,
   "createdAt": "2026-09-08T16:09:42Z",
-  "updatedAt": "2026-09-08T16:09:42Z"
+  "updatedAt": "2026-11-08T11:28:40Z"
 }
