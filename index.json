@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T10:29:40Z",
+  "updatedAt": "2026-11-11T11:52:36Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -294,44 +294,6 @@
       "sha256": "acd833f0f91590fc46f99d63a8ee7f11820cb3cd873d6a16b8be45631a67e9b9",
       "revision": 2,
       "createdAt": "2026-09-13T18:03:45Z",
-      "updatedAt": "2026-11-11T10:29:17Z",
-      "requires": []
-    },
-    {
-      "id": "theme-2-61fd80",
-      "name": "Theme 2",
-      "author": "Louis Pham",
-      "sources": [
-        "wallpaper",
-        "appearance",
-        "dock",
-        "appSettings"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-2-61fd80/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-2-61fd80/bundle.vahotheme",
-      "sizeBytes": 1862291,
-      "sha256": "72093dc5f527ba2d964dbb39f5a03beed15b741daaa8cb617716e6d954c7a729",
-      "revision": 2,
-      "createdAt": "2026-09-13T05:04:19Z",
-      "updatedAt": "2026-11-11T10:29:17Z",
-      "requires": []
-    },
-    {
-      "id": "theme-1-69bfb8",
-      "name": "Theme 1",
-      "author": "Ivan Papson",
-      "sources": [
-        "wallpaper",
-        "appearance",
-        "dock",
-        "appSettings"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-69bfb8/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-69bfb8/bundle.vahotheme",
-      "sizeBytes": 1860009,
-      "sha256": "d3f82620476a8493fc79e5fffc2f1d88474471f863fbcc2a06e1b83aab96bbbe",
-      "revision": 2,
-      "createdAt": "2026-09-12T12:43:14Z",
       "updatedAt": "2026-11-11T10:29:17Z",
       "requires": []
     },
