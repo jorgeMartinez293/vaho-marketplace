@@ -4,14 +4,17 @@
   "author": "user",
   "description": "",
   "sources": [
-    "appSettings",
     "wallpaper",
+    "appSettings",
     "vidrio",
-    "sereno",
-    "bruma"
+    "sereno"
   ],
-  "bringsWidgets": false,
-  "sizeBytes": 2635318,
+  "uid": "D06BE9AA-AFB2-404B-AC68-C6F8C6FC0FC2",
+  "formatVersion": 2,
+  "sizeBytes": 2738125,
+  "sha256": "fc5488e1ae735cba6401c02ae39178c6fd9db16b2feef26f091b90f0e331625b",
+  "revision": 2,
   "createdAt": "2026-09-08T16:46:42Z",
+  "updatedAt": "2026-11-11T10:29:17Z",
   "vahoVersion": "2.0.0"
 }

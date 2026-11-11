@@ -4,19 +4,18 @@
   "author": "Jorge Martínez",
   "description": "",
   "sources": [
-    "bruma",
-    "finder",
     "wallpaper",
-    "menuBar",
-    "vidrio",
-    "cursor",
-    "sereno",
     "appearance",
     "dock",
-    "screenSaver"
+    "vidrio",
+    "sereno"
   ],
-  "bringsWidgets": true,
-  "sizeBytes": 2369223,
+  "uid": "541CBA54-FD9E-41A2-9F02-7F25B76960F4",
+  "formatVersion": 2,
+  "sizeBytes": 2519517,
+  "sha256": "73dcb4aca2b4f828b64c34e9a6f38ede597eb6ea7234cbba8cc7d966a416848c",
+  "revision": 2,
   "createdAt": "2026-09-21T09:19:17Z",
+  "updatedAt": "2026-11-11T10:29:17Z",
   "vahoVersion": "2.1.6"
 }

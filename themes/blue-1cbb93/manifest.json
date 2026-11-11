@@ -4,19 +4,19 @@
   "author": "Jorge Martínez",
   "description": "",
   "sources": [
-    "dock",
-    "screenSaver",
-    "sereno",
-    "bruma",
-    "appSettings",
-    "cursor",
-    "vidrio",
+    "wallpaper",
     "appearance",
-    "menuBar",
-    "wallpaper"
+    "dock",
+    "appSettings",
+    "vidrio",
+    "sereno"
   ],
-  "bringsWidgets": true,
-  "sizeBytes": 4222242,
+  "uid": "39892DC2-B83F-4AEB-8668-F6C60F555E32",
+  "formatVersion": 2,
+  "sizeBytes": 5343684,
+  "sha256": "dfe05ab28f23ffcd8de0c47669a52cd060cf4d0a680e22b8cdf3a6a1dc75496d",
+  "revision": 2,
   "createdAt": "2026-09-07T10:20:56.136Z",
+  "updatedAt": "2026-11-11T10:29:17Z",
   "vahoVersion": "2.0.0"
 }

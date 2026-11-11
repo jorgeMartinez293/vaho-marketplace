@@ -27,24 +27,41 @@ function entries(dir) {
     .map(name => ({ id: name, meta: JSON.parse(readFileSync(join(dir, name, "manifest.json"), "utf8")) }));
 }
 
-const themes = entries(join(root, "themes")).map(({ id, meta }) => ({
-  id,
-  name: meta.name,
-  author: meta.author,
-  description: meta.description || undefined,
-  sources: meta.sources || [],
-  previewURL: existsSync(join(root, "themes", id, "preview.jpg")) ? `${BASE}/themes/${id}/preview.jpg` : undefined,
-  downloadURL: `${BASE}/themes/${id}/bundle.vahotheme`,
-  sizeBytes: meta.sizeBytes,
-  createdAt: iso(meta.createdAt),
-  bringsWidgets: meta.bringsWidgets || false,
-  tags: meta.tags || undefined,
-  requires: (meta.sources || []).flatMap(source => {
-    if (source === "bruma") return [{ source, name: "bruma", downloadURL: "https://github.com/jorgeMartinez293/bruma-releases/releases/latest/download/bruma.dmg" }];
-    if (source === "vidrio" || source === "sereno") return [{ source, name: "vidrio", downloadURL: "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg" }];
-    return [];
-  })
-})).sort((a, b) => (b.createdAt || "").localeCompare(a.createdAt || ""));
+// Sources the app can apply (ThemeSource in the app). Anything else a manifest still lists
+// — bruma, Finder, third-party app configs from vaho 2.x — is not advertised.
+const THEME_SOURCES = ["wallpaper", "neowall", "widgets", "appearance", "dock", "appSettings", "vidrio", "sereno", "sider"];
+const FAMILY_APPS = {
+  vidrio: "vidrio", sereno: "vidrio", neowall: "neowall", sider: "sider"
+};
+
+const themes = entries(join(root, "themes")).map(({ id, meta }) => {
+  const declared = new Set((meta.sources || []).map(s => (s === "pokefetch" ? "sereno" : s)));
+  const sources = THEME_SOURCES.filter(s => declared.has(s));
+  const required = new Set();
+  return {
+    id,
+    name: meta.name,
+    author: meta.author,
+    description: meta.description || undefined,
+    sources,
+    previewURL: existsSync(join(root, "themes", id, "preview.jpg")) ? `${BASE}/themes/${id}/preview.jpg` : undefined,
+    downloadURL: `${BASE}/themes/${id}/bundle.vahotheme`,
+    sizeBytes: meta.sizeBytes,
+    sha256: meta.sha256 || undefined,
+    revision: meta.revision || 1,
+    createdAt: iso(meta.createdAt),
+    updatedAt: iso(meta.updatedAt || meta.createdAt),
+    widgetApps: meta.widgetApps || undefined,
+    tags: meta.tags || undefined,
+    requires: sources.flatMap(source => {
+      const app = FAMILY_APPS[source];
+      if (!app || required.has(app)) return [];
+      required.add(app);
+      return [{ source, name: app, downloadURL: `https://github.com/jorgeMartinez293/${app}-releases/releases/latest/download/${app}.dmg` }];
+    })
+  };
+}).filter(theme => theme.sources.length > 0)
+  .sort((a, b) => (b.createdAt || "").localeCompare(a.createdAt || ""));
 
 const modes = entries(join(root, "modes")).map(({ id, meta }) => ({
   id,

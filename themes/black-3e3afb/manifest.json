@@ -5,19 +5,18 @@
   "description": "",
   "sources": [
     "wallpaper",
+    "appearance",
+    "dock",
     "appSettings",
     "vidrio",
-    "finder",
-    "dock",
-    "bruma",
-    "menuBar",
-    "sereno",
-    "screenSaver",
-    "cursor",
-    "appearance"
+    "sereno"
   ],
-  "bringsWidgets": true,
-  "sizeBytes": 553955,
+  "uid": "1428111A-5B6F-4305-8618-4DEF4B5DD05C",
+  "formatVersion": 2,
+  "sizeBytes": 696617,
+  "sha256": "cf49f3c45e9eb66cf7ca2a7b96e26cab9807036dfb761d18f046ef11fe758db7",
+  "revision": 2,
   "createdAt": "2026-09-07T10:19:50.951Z",
+  "updatedAt": "2026-11-11T10:29:17Z",
   "vahoVersion": "2.0.0"
 }
