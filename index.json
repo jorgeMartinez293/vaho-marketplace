@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T11:53:16Z",
+  "updatedAt": "2026-11-11T11:54:14Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -144,37 +144,6 @@
     }
   ],
   "themes": [
-    {
-      "id": "white-55066d",
-      "name": "White",
-      "author": "Jorge Martínez",
-      "sources": [
-        "neowall",
-        "appearance",
-        "dock",
-        "vidrio",
-        "sereno"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-55066d/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/white-55066d/bundle.vahotheme",
-      "sizeBytes": 403267,
-      "sha256": "8452a4215a3f8ba9cffc9a53f2eef141a00db331a662e7e4db6458f1be6dd234",
-      "revision": 2,
-      "createdAt": "2026-10-13T14:14:54Z",
-      "updatedAt": "2026-11-11T10:29:17Z",
-      "requires": [
-        {
-          "source": "neowall",
-          "name": "neowall",
-          "downloadURL": "https://github.com/jorgeMartinez293/neowall-releases/releases/latest/download/neowall.dmg"
-        },
-        {
-          "source": "vidrio",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        }
-      ]
-    },
     {
       "id": "cute-theme-74b435",
       "name": "CUTE THEME",
