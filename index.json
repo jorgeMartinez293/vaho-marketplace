@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T11:52:36Z",
+  "updatedAt": "2026-11-11T11:52:54Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -277,25 +277,6 @@
           "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
         }
       ]
-    },
-    {
-      "id": "theme-1-e17980",
-      "name": "Theme 1",
-      "author": "Mario Delgado",
-      "sources": [
-        "wallpaper",
-        "appearance",
-        "dock",
-        "appSettings"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-e17980/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/theme-1-e17980/bundle.vahotheme",
-      "sizeBytes": 2225704,
-      "sha256": "acd833f0f91590fc46f99d63a8ee7f11820cb3cd873d6a16b8be45631a67e9b9",
-      "revision": 2,
-      "createdAt": "2026-09-13T18:03:45Z",
-      "updatedAt": "2026-11-11T10:29:17Z",
-      "requires": []
     },
     {
       "id": "bluebrush-cb0e56",
