@@ -1,0 +1,26 @@
+{
+  "id": "north-fa7ea1",
+  "name": "NORTH",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "wallpaper",
+    "widgets",
+    "appearance",
+    "dock",
+    "appSettings",
+    "vidrio",
+    "sereno"
+  ],
+  "uid": "541CBA54-FD9E-41A2-9F02-7F25B76960F4",
+  "formatVersion": 2,
+  "widgetApps": [
+    "Clock"
+  ],
+  "sizeBytes": 2538425,
+  "sha256": "80b854bd21906138a93f731e9073163e57538306c8a03aa6c72e60a624e8f0a9",
+  "revision": 1,
+  "createdAt": "2026-11-23T11:07:42Z",
+  "updatedAt": "2026-11-23T11:07:42Z",
+  "vahoVersion": "2.5.1"
+}
