@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T11:12:33Z",
+  "updatedAt": "2026-11-23T16:42:27Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -144,6 +144,33 @@
     }
   ],
   "themes": [
+    {
+      "id": "black-b8f9c8",
+      "name": "BLACK",
+      "author": "Jorge Martínez",
+      "sources": [
+        "wallpaper",
+        "appearance",
+        "dock",
+        "appSettings",
+        "vidrio",
+        "sereno"
+      ],
+      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/black-b8f9c8/preview.jpg",
+      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/black-b8f9c8/bundle.vahotheme",
+      "sizeBytes": 696261,
+      "sha256": "1d83dba48ab4839296e9b488537571ceea9fa2b8d22ac4ee4c1b36a4afecb549",
+      "revision": 1,
+      "createdAt": "2026-11-23T16:42:02Z",
+      "updatedAt": "2026-11-23T16:42:02Z",
+      "requires": [
+        {
+          "source": "vidrio",
+          "name": "vidrio",
+          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
+        }
+      ]
+    },
     {
       "id": "roji-4af9ea",
       "name": "Roji",
@@ -409,33 +436,6 @@
       "sha256": "dfe05ab28f23ffcd8de0c47669a52cd060cf4d0a680e22b8cdf3a6a1dc75496d",
       "revision": 2,
       "createdAt": "2026-09-07T10:20:56Z",
-      "updatedAt": "2026-11-11T10:29:17Z",
-      "requires": [
-        {
-          "source": "vidrio",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        }
-      ]
-    },
-    {
-      "id": "black-3e3afb",
-      "name": "BLACK",
-      "author": "Jorge Martínez",
-      "sources": [
-        "wallpaper",
-        "appearance",
-        "dock",
-        "appSettings",
-        "vidrio",
-        "sereno"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/black-3e3afb/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/black-3e3afb/bundle.vahotheme",
-      "sizeBytes": 696617,
-      "sha256": "cf49f3c45e9eb66cf7ca2a7b96e26cab9807036dfb761d18f046ef11fe758db7",
-      "revision": 2,
-      "createdAt": "2026-09-07T10:19:50Z",
       "updatedAt": "2026-11-11T10:29:17Z",
       "requires": [
         {
