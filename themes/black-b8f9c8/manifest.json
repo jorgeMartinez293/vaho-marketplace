@@ -1,0 +1,22 @@
+{
+  "id": "black-b8f9c8",
+  "name": "BLACK",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "wallpaper",
+    "appearance",
+    "dock",
+    "appSettings",
+    "vidrio",
+    "sereno"
+  ],
+  "uid": "1428111A-5B6F-4305-8618-4DEF4B5DD05C",
+  "formatVersion": 2,
+  "sizeBytes": 696261,
+  "sha256": "1d83dba48ab4839296e9b488537571ceea9fa2b8d22ac4ee4c1b36a4afecb549",
+  "revision": 1,
+  "createdAt": "2026-11-23T16:42:02Z",
+  "updatedAt": "2026-11-23T16:42:02Z",
+  "vahoVersion": "2.5.2"
+}
