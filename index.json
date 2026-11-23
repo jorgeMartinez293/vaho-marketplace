@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T11:11:46Z",
+  "updatedAt": "2026-11-23T11:12:17Z",
   "modes": [
     {
       "id": "vaho.lyrics",
@@ -225,58 +225,6 @@
       "sha256": "f8cf82d527772197361051686ba25864be295f2e81df5808229f2f86433cef99",
       "revision": 2,
       "createdAt": "2026-09-23T09:51:50Z",
-      "updatedAt": "2026-11-11T10:29:17Z",
-      "requires": [
-        {
-          "source": "vidrio",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        }
-      ]
-    },
-    {
-      "id": "north-39af8e",
-      "name": "NORTH",
-      "author": "Jorge Martínez",
-      "sources": [
-        "wallpaper",
-        "appearance",
-        "dock",
-        "vidrio",
-        "sereno"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/north-39af8e/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/north-39af8e/bundle.vahotheme",
-      "sizeBytes": 2519517,
-      "sha256": "73dcb4aca2b4f828b64c34e9a6f38ede597eb6ea7234cbba8cc7d966a416848c",
-      "revision": 2,
-      "createdAt": "2026-09-21T09:19:17Z",
-      "updatedAt": "2026-11-11T10:29:17Z",
-      "requires": [
-        {
-          "source": "vidrio",
-          "name": "vidrio",
-          "downloadURL": "https://github.com/jorgeMartinez293/vidrio-releases/releases/latest/download/vidrio.dmg"
-        }
-      ]
-    },
-    {
-      "id": "roji-a5f876",
-      "name": "Roji",
-      "author": "Jorge Martínez",
-      "sources": [
-        "wallpaper",
-        "appearance",
-        "dock",
-        "vidrio",
-        "sereno"
-      ],
-      "previewURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/roji-a5f876/preview.jpg",
-      "downloadURL": "https://jorgeMartinez293.github.io/vaho-marketplace/themes/roji-a5f876/bundle.vahotheme",
-      "sizeBytes": 1476977,
-      "sha256": "7c34507fdb930c65fc8f9725ee3319adf2f54ab6aaa3a88064a2071e40714439",
-      "revision": 2,
-      "createdAt": "2026-09-15T22:01:11Z",
       "updatedAt": "2026-11-11T10:29:17Z",
       "requires": [
         {
