@@ -1,0 +1,29 @@
+{
+  "id": "roji-4af9ea",
+  "name": "Roji",
+  "author": "Jorge Martínez",
+  "description": "",
+  "sources": [
+    "wallpaper",
+    "widgets",
+    "appearance",
+    "dock",
+    "appSettings",
+    "vidrio",
+    "sereno"
+  ],
+  "uid": "B240B0F5-BD50-488F-9BC1-887635B83170",
+  "formatVersion": 2,
+  "widgetApps": [
+    "Calendar",
+    "Home",
+    "Batteries",
+    "Weather"
+  ],
+  "sizeBytes": 1478884,
+  "sha256": "124bf402c45b4d6f574d3b15cb20e7134df18d4bdd389bc90d5dc1dc9e1f7cb8",
+  "revision": 1,
+  "createdAt": "2026-11-23T11:11:31Z",
+  "updatedAt": "2026-11-23T11:11:31Z",
+  "vahoVersion": "2.5.1"
+}
